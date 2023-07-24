@@ -5,5 +5,12 @@ def main(n):
         n: int
     Returns:
         string: return  answer
-    """
-    return
+        """
+    ans=str(i)
+    for i in range(n+1):
+        return ans
+    print(main(15))
+    
+    
+    
+    
